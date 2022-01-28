@@ -1,0 +1,913 @@
+SYEAR,SMTH,NAICS,_EMPLOYMENT_
+2016,1,Accommodation and food services [72],157500
+2016,1,"Administrative and support, waste management and remediation services [56]",92250
+2016,1,"Agriculture, forestry, fishing and hunting [11]",36500
+2016,1,"Arts, entertainment and recreation [71]",59250
+2016,1,Construction [23],197250
+2016,1,Educational services [61],176750
+2016,1,Finance and insurance [52],79000
+2016,1,Health care and social assistance [62],299000
+2016,1,Information and cultural industries [51],64500
+2016,1,Manufacturing [31-33],175750
+2016,1,"Mining, quarrying, and oil and gas extraction [21]",29750
+2016,1,Other services (except public administration)[81],106000
+2016,1,"Professional, scientific and technical services [54]",187000
+2016,1,Public administration [91],97000
+2016,1,"Real estate, rental and leasing [53]",46500
+2016,1,Retail trade  [44-45],277250
+2016,1,Transportation and warehousing [48-49],125750
+2016,1,Utilities [22],14500
+2016,1,Wholesale trade  [41],81000
+2016,2,Accommodation and food services [72],161250
+2016,2,"Administrative and support, waste management and remediation services [56]",92250
+2016,2,"Agriculture, forestry, fishing and hunting [11]",39000
+2016,2,"Arts, entertainment and recreation [71]",59000
+2016,2,Construction [23],201750
+2016,2,Educational services [61],173250
+2016,2,Finance and insurance [52],82250
+2016,2,Health care and social assistance [62],289250
+2016,2,Information and cultural industries [51],63250
+2016,2,Manufacturing [31-33],175000
+2016,2,"Mining, quarrying, and oil and gas extraction [21]",30500
+2016,2,Other services (except public administration)[81],98750
+2016,2,"Professional, scientific and technical services [54]",190000
+2016,2,Public administration [91],97500
+2016,2,"Real estate, rental and leasing [53]",46250
+2016,2,Retail trade  [44-45],284500
+2016,2,Transportation and warehousing [48-49],128750
+2016,2,Utilities [22],12750
+2016,2,Wholesale trade  [41],93000
+2016,3,Accommodation and food services [72],166000
+2016,3,"Administrative and support, waste management and remediation services [56]",92750
+2016,3,"Agriculture, forestry, fishing and hunting [11]",43000
+2016,3,"Arts, entertainment and recreation [71]",55000
+2016,3,Construction [23],200750
+2016,3,Educational services [61],174500
+2016,3,Finance and insurance [52],84000
+2016,3,Health care and social assistance [62],294000
+2016,3,Information and cultural industries [51],66000
+2016,3,Manufacturing [31-33],171000
+2016,3,"Mining, quarrying, and oil and gas extraction [21]",30750
+2016,3,Other services (except public administration)[81],96750
+2016,3,"Professional, scientific and technical services [54]",194000
+2016,3,Public administration [91],98750
+2016,3,"Real estate, rental and leasing [53]",48000
+2016,3,Retail trade  [44-45],277000
+2016,3,Transportation and warehousing [48-49],135250
+2016,3,Utilities [22],14250
+2016,3,Wholesale trade  [41],93250
+2016,4,Accommodation and food services [72],173000
+2016,4,"Administrative and support, waste management and remediation services [56]",100750
+2016,4,"Agriculture, forestry, fishing and hunting [11]",40000
+2016,4,"Arts, entertainment and recreation [71]",58000
+2016,4,Construction [23],213250
+2016,4,Educational services [61],174250
+2016,4,Finance and insurance [52],84000
+2016,4,Health care and social assistance [62],292750
+2016,4,Information and cultural industries [51],65250
+2016,4,Manufacturing [31-33],170500
+2016,4,"Mining, quarrying, and oil and gas extraction [21]",29000
+2016,4,Other services (except public administration)[81],96250
+2016,4,"Professional, scientific and technical services [54]",193250
+2016,4,Public administration [91],98250
+2016,4,"Real estate, rental and leasing [53]",44500
+2016,4,Retail trade  [44-45],279250
+2016,4,Transportation and warehousing [48-49],134000
+2016,4,Utilities [22],14000
+2016,4,Wholesale trade  [41],97750
+2016,5,Accommodation and food services [72],172500
+2016,5,"Administrative and support, waste management and remediation services [56]",104750
+2016,5,"Agriculture, forestry, fishing and hunting [11]",47000
+2016,5,"Arts, entertainment and recreation [71]",62000
+2016,5,Construction [23],214500
+2016,5,Educational services [61],173750
+2016,5,Finance and insurance [52],87000
+2016,5,Health care and social assistance [62],287750
+2016,5,Information and cultural industries [51],63750
+2016,5,Manufacturing [31-33],168000
+2016,5,"Mining, quarrying, and oil and gas extraction [21]",30250
+2016,5,Other services (except public administration)[81],103500
+2016,5,"Professional, scientific and technical services [54]",195250
+2016,5,Public administration [91],108500
+2016,5,"Real estate, rental and leasing [53]",43250
+2016,5,Retail trade  [44-45],280250
+2016,5,Transportation and warehousing [48-49],140250
+2016,5,Utilities [22],13500
+2016,5,Wholesale trade  [41],91000
+2016,6,Accommodation and food services [72],182000
+2016,6,"Administrative and support, waste management and remediation services [56]",113500
+2016,6,"Agriculture, forestry, fishing and hunting [11]",50000
+2016,6,"Arts, entertainment and recreation [71]",61000
+2016,6,Construction [23],212750
+2016,6,Educational services [61],174750
+2016,6,Finance and insurance [52],92250
+2016,6,Health care and social assistance [62],288750
+2016,6,Information and cultural industries [51],61500
+2016,6,Manufacturing [31-33],168500
+2016,6,"Mining, quarrying, and oil and gas extraction [21]",30250
+2016,6,Other services (except public administration)[81],105500
+2016,6,"Professional, scientific and technical services [54]",203000
+2016,6,Public administration [91],106250
+2016,6,"Real estate, rental and leasing [53]",44750
+2016,6,Retail trade  [44-45],274500
+2016,6,Transportation and warehousing [48-49],140250
+2016,6,Utilities [22],13500
+2016,6,Wholesale trade  [41],91250
+2016,7,Accommodation and food services [72],183000
+2016,7,"Administrative and support, waste management and remediation services [56]",115750
+2016,7,"Agriculture, forestry, fishing and hunting [11]",55750
+2016,7,"Arts, entertainment and recreation [71]",64750
+2016,7,Construction [23],219000
+2016,7,Educational services [61],137500
+2016,7,Finance and insurance [52],95000
+2016,7,Health care and social assistance [62],296500
+2016,7,Information and cultural industries [51],63250
+2016,7,Manufacturing [31-33],172500
+2016,7,"Mining, quarrying, and oil and gas extraction [21]",29000
+2016,7,Other services (except public administration)[81],107500
+2016,7,"Professional, scientific and technical services [54]",202500
+2016,7,Public administration [91],107500
+2016,7,"Real estate, rental and leasing [53]",45250
+2016,7,Retail trade  [44-45],277000
+2016,7,Transportation and warehousing [48-49],142500
+2016,7,Utilities [22],13250
+2016,7,Wholesale trade  [41],91500
+2016,8,Accommodation and food services [72],188000
+2016,8,"Administrative and support, waste management and remediation services [56]",122250
+2016,8,"Agriculture, forestry, fishing and hunting [11]",50000
+2016,8,"Arts, entertainment and recreation [71]",72500
+2016,8,Construction [23],216750
+2016,8,Educational services [61],132500
+2016,8,Finance and insurance [52],93500
+2016,8,Health care and social assistance [62],289500
+2016,8,Information and cultural industries [51],62750
+2016,8,Manufacturing [31-33],172750
+2016,8,"Mining, quarrying, and oil and gas extraction [21]",30750
+2016,8,Other services (except public administration)[81],106750
+2016,8,"Professional, scientific and technical services [54]",198750
+2016,8,Public administration [91],109250
+2016,8,"Real estate, rental and leasing [53]",47250
+2016,8,Retail trade  [44-45],275250
+2016,8,Transportation and warehousing [48-49],142500
+2016,8,Utilities [22],13000
+2016,8,Wholesale trade  [41],93000
+2016,9,Accommodation and food services [72],174250
+2016,9,"Administrative and support, waste management and remediation services [56]",114000
+2016,9,"Agriculture, forestry, fishing and hunting [11]",47500
+2016,9,"Arts, entertainment and recreation [71]",75000
+2016,9,Construction [23],217500
+2016,9,Educational services [61],161750
+2016,9,Finance and insurance [52],91750
+2016,9,Health care and social assistance [62],287250
+2016,9,Information and cultural industries [51],59250
+2016,9,Manufacturing [31-33],163250
+2016,9,"Mining, quarrying, and oil and gas extraction [21]",29750
+2016,9,Other services (except public administration)[81],107500
+2016,9,"Professional, scientific and technical services [54]",196500
+2016,9,Public administration [91],108250
+2016,9,"Real estate, rental and leasing [53]",47250
+2016,9,Retail trade  [44-45],279250
+2016,9,Transportation and warehousing [48-49],141500
+2016,9,Utilities [22],12750
+2016,9,Wholesale trade  [41],81500
+2016,10,Accommodation and food services [72],172000
+2016,10,"Administrative and support, waste management and remediation services [56]",109750
+2016,10,"Agriculture, forestry, fishing and hunting [11]",47750
+2016,10,"Arts, entertainment and recreation [71]",69000
+2016,10,Construction [23],215250
+2016,10,Educational services [61],165250
+2016,10,Finance and insurance [52],98750
+2016,10,Health care and social assistance [62],294250
+2016,10,Information and cultural industries [51],61500
+2016,10,Manufacturing [31-33],166750
+2016,10,"Mining, quarrying, and oil and gas extraction [21]",27750
+2016,10,Other services (except public administration)[81],109000
+2016,10,"Professional, scientific and technical services [54]",196750
+2016,10,Public administration [91],108250
+2016,10,"Real estate, rental and leasing [53]",44000
+2016,10,Retail trade  [44-45],284250
+2016,10,Transportation and warehousing [48-49],143500
+2016,10,Utilities [22],13250
+2016,10,Wholesale trade  [41],85500
+2016,11,Accommodation and food services [72],174750
+2016,11,"Administrative and support, waste management and remediation services [56]",104000
+2016,11,"Agriculture, forestry, fishing and hunting [11]",43750
+2016,11,"Arts, entertainment and recreation [71]",71750
+2016,11,Construction [23],217000
+2016,11,Educational services [61],166000
+2016,11,Finance and insurance [52],101500
+2016,11,Health care and social assistance [62],289500
+2016,11,Information and cultural industries [51],55000
+2016,11,Manufacturing [31-33],167750
+2016,11,"Mining, quarrying, and oil and gas extraction [21]",31000
+2016,11,Other services (except public administration)[81],107250
+2016,11,"Professional, scientific and technical services [54]",194750
+2016,11,Public administration [91],103250
+2016,11,"Real estate, rental and leasing [53]",42250
+2016,11,Retail trade  [44-45],286750
+2016,11,Transportation and warehousing [48-49],138750
+2016,11,Utilities [22],13750
+2016,11,Wholesale trade  [41],84250
+2016,12,Accommodation and food services [72],186000
+2016,12,"Administrative and support, waste management and remediation services [56]",94000
+2016,12,"Agriculture, forestry, fishing and hunting [11]",45000
+2016,12,"Arts, entertainment and recreation [71]",64000
+2016,12,Construction [23],210250
+2016,12,Educational services [61],169250
+2016,12,Finance and insurance [52],103250
+2016,12,Health care and social assistance [62],290500
+2016,12,Information and cultural industries [51],61750
+2016,12,Manufacturing [31-33],169500
+2016,12,"Mining, quarrying, and oil and gas extraction [21]",29000
+2016,12,Other services (except public administration)[81],110750
+2016,12,"Professional, scientific and technical services [54]",193500
+2016,12,Public administration [91],101250
+2016,12,"Real estate, rental and leasing [53]",39500
+2016,12,Retail trade  [44-45],287000
+2016,12,Transportation and warehousing [48-49],141500
+2016,12,Utilities [22],13250
+2016,12,Wholesale trade  [41],93000
+2017,1,Accommodation and food services [72],178250
+2017,1,"Administrative and support, waste management and remediation services [56]",98750
+2017,1,"Agriculture, forestry, fishing and hunting [11]",42250
+2017,1,"Arts, entertainment and recreation [71]",58000
+2017,1,Construction [23],213500
+2017,1,Educational services [61],173500
+2017,1,Finance and insurance [52],101500
+2017,1,Health care and social assistance [62],287000
+2017,1,Information and cultural industries [51],68750
+2017,1,Manufacturing [31-33],167250
+2017,1,"Mining, quarrying, and oil and gas extraction [21]",29000
+2017,1,Other services (except public administration)[81],114250
+2017,1,"Professional, scientific and technical services [54]",194250
+2017,1,Public administration [91],101250
+2017,1,"Real estate, rental and leasing [53]",41250
+2017,1,Retail trade  [44-45],282500
+2017,1,Transportation and warehousing [48-49],139500
+2017,1,Utilities [22],13500
+2017,1,Wholesale trade  [41],80750
+2017,2,Accommodation and food services [72],178750
+2017,2,"Administrative and support, waste management and remediation services [56]",102500
+2017,2,"Agriculture, forestry, fishing and hunting [11]",44250
+2017,2,"Arts, entertainment and recreation [71]",58250
+2017,2,Construction [23],221500
+2017,2,Educational services [61],178250
+2017,2,Finance and insurance [52],103250
+2017,2,Health care and social assistance [62],291250
+2017,2,Information and cultural industries [51],70000
+2017,2,Manufacturing [31-33],166750
+2017,2,"Mining, quarrying, and oil and gas extraction [21]",27750
+2017,2,Other services (except public administration)[81],112250
+2017,2,"Professional, scientific and technical services [54]",192250
+2017,2,Public administration [91],106000
+2017,2,"Real estate, rental and leasing [53]",45500
+2017,2,Retail trade  [44-45],270500
+2017,2,Transportation and warehousing [48-49],141000
+2017,2,Utilities [22],13000
+2017,2,Wholesale trade  [41],87250
+2017,3,Accommodation and food services [72],172750
+2017,3,"Administrative and support, waste management and remediation services [56]",103000
+2017,3,"Agriculture, forestry, fishing and hunting [11]",44250
+2017,3,"Arts, entertainment and recreation [71]",63750
+2017,3,Construction [23],218250
+2017,3,Educational services [61],169000
+2017,3,Finance and insurance [52],102750
+2017,3,Health care and social assistance [62],291500
+2017,3,Information and cultural industries [51],77750
+2017,3,Manufacturing [31-33],167750
+2017,3,"Mining, quarrying, and oil and gas extraction [21]",30250
+2017,3,Other services (except public administration)[81],116000
+2017,3,"Professional, scientific and technical services [54]",193500
+2017,3,Public administration [91],101250
+2017,3,"Real estate, rental and leasing [53]",49500
+2017,3,Retail trade  [44-45],280750
+2017,3,Transportation and warehousing [48-49],138750
+2017,3,Utilities [22],12750
+2017,3,Wholesale trade  [41],89500
+2017,4,Accommodation and food services [72],181000
+2017,4,"Administrative and support, waste management and remediation services [56]",99500
+2017,4,"Agriculture, forestry, fishing and hunting [11]",42000
+2017,4,"Arts, entertainment and recreation [71]",60750
+2017,4,Construction [23],223000
+2017,4,Educational services [61],174000
+2017,4,Finance and insurance [52],97500
+2017,4,Health care and social assistance [62],303250
+2017,4,Information and cultural industries [51],78750
+2017,4,Manufacturing [31-33],166500
+2017,4,"Mining, quarrying, and oil and gas extraction [21]",31750
+2017,4,Other services (except public administration)[81],115500
+2017,4,"Professional, scientific and technical services [54]",190500
+2017,4,Public administration [91],103500
+2017,4,"Real estate, rental and leasing [53]",59000
+2017,4,Retail trade  [44-45],285250
+2017,4,Transportation and warehousing [48-49],138250
+2017,4,Utilities [22],13000
+2017,4,Wholesale trade  [41],79750
+2017,5,Accommodation and food services [72],184500
+2017,5,"Administrative and support, waste management and remediation services [56]",113250
+2017,5,"Agriculture, forestry, fishing and hunting [11]",46750
+2017,5,"Arts, entertainment and recreation [71]",63000
+2017,5,Construction [23],227500
+2017,5,Educational services [61],169500
+2017,5,Finance and insurance [52],96000
+2017,5,Health care and social assistance [62],306000
+2017,5,Information and cultural industries [51],77750
+2017,5,Manufacturing [31-33],173000
+2017,5,"Mining, quarrying, and oil and gas extraction [21]",33250
+2017,5,Other services (except public administration)[81],116000
+2017,5,"Professional, scientific and technical services [54]",190500
+2017,5,Public administration [91],104000
+2017,5,"Real estate, rental and leasing [53]",64000
+2017,5,Retail trade  [44-45],287250
+2017,5,Transportation and warehousing [48-49],143250
+2017,5,Utilities [22],12000
+2017,5,Wholesale trade  [41],80500
+2017,6,Accommodation and food services [72],192250
+2017,6,"Administrative and support, waste management and remediation services [56]",109000
+2017,6,"Agriculture, forestry, fishing and hunting [11]",51250
+2017,6,"Arts, entertainment and recreation [71]",71000
+2017,6,Construction [23],236500
+2017,6,Educational services [61],169000
+2017,6,Finance and insurance [52],96750
+2017,6,Health care and social assistance [62],301250
+2017,6,Information and cultural industries [51],71250
+2017,6,Manufacturing [31-33],179000
+2017,6,"Mining, quarrying, and oil and gas extraction [21]",31500
+2017,6,Other services (except public administration)[81],117500
+2017,6,"Professional, scientific and technical services [54]",200250
+2017,6,Public administration [91],102000
+2017,6,"Real estate, rental and leasing [53]",64500
+2017,6,Retail trade  [44-45],297250
+2017,6,Transportation and warehousing [48-49],144250
+2017,6,Utilities [22],12750
+2017,6,Wholesale trade  [41],79250
+2017,7,Accommodation and food services [72],195500
+2017,7,"Administrative and support, waste management and remediation services [56]",107000
+2017,7,"Agriculture, forestry, fishing and hunting [11]",53000
+2017,7,"Arts, entertainment and recreation [71]",76750
+2017,7,Construction [23],239250
+2017,7,Educational services [61],138000
+2017,7,Finance and insurance [52],95500
+2017,7,Health care and social assistance [62],304250
+2017,7,Information and cultural industries [51],66500
+2017,7,Manufacturing [31-33],184750
+2017,7,"Mining, quarrying, and oil and gas extraction [21]",29750
+2017,7,Other services (except public administration)[81],115000
+2017,7,"Professional, scientific and technical services [54]",199750
+2017,7,Public administration [91],102750
+2017,7,"Real estate, rental and leasing [53]",63000
+2017,7,Retail trade  [44-45],303750
+2017,7,Transportation and warehousing [48-49],146750
+2017,7,Utilities [22],12000
+2017,7,Wholesale trade  [41],74000
+2017,8,Accommodation and food services [72],187000
+2017,8,"Administrative and support, waste management and remediation services [56]",111250
+2017,8,"Agriculture, forestry, fishing and hunting [11]",55500
+2017,8,"Arts, entertainment and recreation [71]",81500
+2017,8,Construction [23],237250
+2017,8,Educational services [61],135000
+2017,8,Finance and insurance [52],94000
+2017,8,Health care and social assistance [62],309750
+2017,8,Information and cultural industries [51],62000
+2017,8,Manufacturing [31-33],180750
+2017,8,"Mining, quarrying, and oil and gas extraction [21]",28250
+2017,8,Other services (except public administration)[81],115500
+2017,8,"Professional, scientific and technical services [54]",205750
+2017,8,Public administration [91],101250
+2017,8,"Real estate, rental and leasing [53]",64250
+2017,8,Retail trade  [44-45],303250
+2017,8,Transportation and warehousing [48-49],143000
+2017,8,Utilities [22],12750
+2017,8,Wholesale trade  [41],82750
+2017,9,Accommodation and food services [72],183500
+2017,9,"Administrative and support, waste management and remediation services [56]",101250
+2017,9,"Agriculture, forestry, fishing and hunting [11]",50250
+2017,9,"Arts, entertainment and recreation [71]",84250
+2017,9,Construction [23],229000
+2017,9,Educational services [61],166750
+2017,9,Finance and insurance [52],91000
+2017,9,Health care and social assistance [62],309250
+2017,9,Information and cultural industries [51],52000
+2017,9,Manufacturing [31-33],178000
+2017,9,"Mining, quarrying, and oil and gas extraction [21]",24750
+2017,9,Other services (except public administration)[81],110000
+2017,9,"Professional, scientific and technical services [54]",201000
+2017,9,Public administration [91],101500
+2017,9,"Real estate, rental and leasing [53]",65000
+2017,9,Retail trade  [44-45],291250
+2017,9,Transportation and warehousing [48-49],137500
+2017,9,Utilities [22],12750
+2017,9,Wholesale trade  [41],87000
+2017,10,Accommodation and food services [72],181000
+2017,10,"Administrative and support, waste management and remediation services [56]",99500
+2017,10,"Agriculture, forestry, fishing and hunting [11]",47000
+2017,10,"Arts, entertainment and recreation [71]",84000
+2017,10,Construction [23],229500
+2017,10,Educational services [61],170000
+2017,10,Finance and insurance [52],102500
+2017,10,Health care and social assistance [62],310250
+2017,10,Information and cultural industries [51],51250
+2017,10,Manufacturing [31-33],177000
+2017,10,"Mining, quarrying, and oil and gas extraction [21]",26500
+2017,10,Other services (except public administration)[81],108250
+2017,10,"Professional, scientific and technical services [54]",198000
+2017,10,Public administration [91],102250
+2017,10,"Real estate, rental and leasing [53]",57750
+2017,10,Retail trade  [44-45],290000
+2017,10,Transportation and warehousing [48-49],135500
+2017,10,Utilities [22],13250
+2017,10,Wholesale trade  [41],88000
+2017,11,Accommodation and food services [72],176750
+2017,11,"Administrative and support, waste management and remediation services [56]",93000
+2017,11,"Agriculture, forestry, fishing and hunting [11]",45500
+2017,11,"Arts, entertainment and recreation [71]",81000
+2017,11,Construction [23],237250
+2017,11,Educational services [61],177750
+2017,11,Finance and insurance [52],100750
+2017,11,Health care and social assistance [62],311000
+2017,11,Information and cultural industries [51],53500
+2017,11,Manufacturing [31-33],176000
+2017,11,"Mining, quarrying, and oil and gas extraction [21]",26750
+2017,11,Other services (except public administration)[81],117750
+2017,11,"Professional, scientific and technical services [54]",198750
+2017,11,Public administration [91],97000
+2017,11,"Real estate, rental and leasing [53]",59750
+2017,11,Retail trade  [44-45],299750
+2017,11,Transportation and warehousing [48-49],132500
+2017,11,Utilities [22],13750
+2017,11,Wholesale trade  [41],85750
+2017,12,Accommodation and food services [72],179500
+2017,12,"Administrative and support, waste management and remediation services [56]",92250
+2017,12,"Agriculture, forestry, fishing and hunting [11]",43500
+2017,12,"Arts, entertainment and recreation [71]",82750
+2017,12,Construction [23],230750
+2017,12,Educational services [61],178000
+2017,12,Finance and insurance [52],99750
+2017,12,Health care and social assistance [62],317250
+2017,12,Information and cultural industries [51],47750
+2017,12,Manufacturing [31-33],173250
+2017,12,"Mining, quarrying, and oil and gas extraction [21]",27500
+2017,12,Other services (except public administration)[81],114500
+2017,12,"Professional, scientific and technical services [54]",202250
+2017,12,Public administration [91],100000
+2017,12,"Real estate, rental and leasing [53]",60000
+2017,12,Retail trade  [44-45],293250
+2017,12,Transportation and warehousing [48-49],132250
+2017,12,Utilities [22],13000
+2017,12,Wholesale trade  [41],88500
+2018,1,Accommodation and food services [72],167500
+2018,1,"Administrative and support, waste management and remediation services [56]",90250
+2018,1,"Agriculture, forestry, fishing and hunting [11]",43500
+2018,1,"Arts, entertainment and recreation [71]",76250
+2018,1,Construction [23],239750
+2018,1,Educational services [61],171750
+2018,1,Finance and insurance [52],99250
+2018,1,Health care and social assistance [62],317000
+2018,1,Information and cultural industries [51],49500
+2018,1,Manufacturing [31-33],175750
+2018,1,"Mining, quarrying, and oil and gas extraction [21]",26250
+2018,1,Other services (except public administration)[81],115750
+2018,1,"Professional, scientific and technical services [54]",196750
+2018,1,Public administration [91],98000
+2018,1,"Real estate, rental and leasing [53]",54000
+2018,1,Retail trade  [44-45],296250
+2018,1,Transportation and warehousing [48-49],126250
+2018,1,Utilities [22],14000
+2018,1,Wholesale trade  [41],84250
+2018,2,Accommodation and food services [72],169750
+2018,2,"Administrative and support, waste management and remediation services [56]",94250
+2018,2,"Agriculture, forestry, fishing and hunting [11]",43000
+2018,2,"Arts, entertainment and recreation [71]",74500
+2018,2,Construction [23],238000
+2018,2,Educational services [61],172500
+2018,2,Finance and insurance [52],94750
+2018,2,Health care and social assistance [62],320000
+2018,2,Information and cultural industries [51],51000
+2018,2,Manufacturing [31-33],173750
+2018,2,"Mining, quarrying, and oil and gas extraction [21]",29750
+2018,2,Other services (except public administration)[81],121000
+2018,2,"Professional, scientific and technical services [54]",200750
+2018,2,Public administration [91],100750
+2018,2,"Real estate, rental and leasing [53]",57750
+2018,2,Retail trade  [44-45],285750
+2018,2,Transportation and warehousing [48-49],125500
+2018,2,Utilities [22],13000
+2018,2,Wholesale trade  [41],84750
+2018,3,Accommodation and food services [72],171250
+2018,3,"Administrative and support, waste management and remediation services [56]",98250
+2018,3,"Agriculture, forestry, fishing and hunting [11]",42000
+2018,3,"Arts, entertainment and recreation [71]",69750
+2018,3,Construction [23],236750
+2018,3,Educational services [61],177250
+2018,3,Finance and insurance [52],93000
+2018,3,Health care and social assistance [62],325000
+2018,3,Information and cultural industries [51],51500
+2018,3,Manufacturing [31-33],174250
+2018,3,"Mining, quarrying, and oil and gas extraction [21]",28750
+2018,3,Other services (except public administration)[81],119500
+2018,3,"Professional, scientific and technical services [54]",201250
+2018,3,Public administration [91],100500
+2018,3,"Real estate, rental and leasing [53]",61000
+2018,3,Retail trade  [44-45],286250
+2018,3,Transportation and warehousing [48-49],127250
+2018,3,Utilities [22],13500
+2018,3,Wholesale trade  [41],78750
+2018,4,Accommodation and food services [72],178750
+2018,4,"Administrative and support, waste management and remediation services [56]",97000
+2018,4,"Agriculture, forestry, fishing and hunting [11]",45500
+2018,4,"Arts, entertainment and recreation [71]",61500
+2018,4,Construction [23],238750
+2018,4,Educational services [61],176750
+2018,4,Finance and insurance [52],86500
+2018,4,Health care and social assistance [62],329000
+2018,4,Information and cultural industries [51],58250
+2018,4,Manufacturing [31-33],177000
+2018,4,"Mining, quarrying, and oil and gas extraction [21]",26500
+2018,4,Other services (except public administration)[81],117000
+2018,4,"Professional, scientific and technical services [54]",203500
+2018,4,Public administration [91],100500
+2018,4,"Real estate, rental and leasing [53]",61750
+2018,4,Retail trade  [44-45],276500
+2018,4,Transportation and warehousing [48-49],133500
+2018,4,Utilities [22],14000
+2018,4,Wholesale trade  [41],82500
+2018,5,Accommodation and food services [72],193000
+2018,5,"Administrative and support, waste management and remediation services [56]",99250
+2018,5,"Agriculture, forestry, fishing and hunting [11]",44750
+2018,5,"Arts, entertainment and recreation [71]",64500
+2018,5,Construction [23],236000
+2018,5,Educational services [61],174250
+2018,5,Finance and insurance [52],87500
+2018,5,Health care and social assistance [62],324500
+2018,5,Information and cultural industries [51],61500
+2018,5,Manufacturing [31-33],177250
+2018,5,"Mining, quarrying, and oil and gas extraction [21]",28500
+2018,5,Other services (except public administration)[81],113500
+2018,5,"Professional, scientific and technical services [54]",200750
+2018,5,Public administration [91],102500
+2018,5,"Real estate, rental and leasing [53]",59500
+2018,5,Retail trade  [44-45],282750
+2018,5,Transportation and warehousing [48-49],137250
+2018,5,Utilities [22],13500
+2018,5,Wholesale trade  [41],82500
+2018,6,Accommodation and food services [72],199000
+2018,6,"Administrative and support, waste management and remediation services [56]",103500
+2018,6,"Agriculture, forestry, fishing and hunting [11]",43500
+2018,6,"Arts, entertainment and recreation [71]",67750
+2018,6,Construction [23],236250
+2018,6,Educational services [61],172500
+2018,6,Finance and insurance [52],84500
+2018,6,Health care and social assistance [62],321000
+2018,6,Information and cultural industries [51],60250
+2018,6,Manufacturing [31-33],178000
+2018,6,"Mining, quarrying, and oil and gas extraction [21]",31750
+2018,6,Other services (except public administration)[81],114250
+2018,6,"Professional, scientific and technical services [54]",209750
+2018,6,Public administration [91],104750
+2018,6,"Real estate, rental and leasing [53]",60250
+2018,6,Retail trade  [44-45],281000
+2018,6,Transportation and warehousing [48-49],142500
+2018,6,Utilities [22],15500
+2018,6,Wholesale trade  [41],77250
+2018,7,Accommodation and food services [72],194500
+2018,7,"Administrative and support, waste management and remediation services [56]",107000
+2018,7,"Agriculture, forestry, fishing and hunting [11]",45000
+2018,7,"Arts, entertainment and recreation [71]",80250
+2018,7,Construction [23],239750
+2018,7,Educational services [61],138750
+2018,7,Finance and insurance [52],88250
+2018,7,Health care and social assistance [62],325500
+2018,7,Information and cultural industries [51],58250
+2018,7,Manufacturing [31-33],178750
+2018,7,"Mining, quarrying, and oil and gas extraction [21]",30750
+2018,7,Other services (except public administration)[81],117500
+2018,7,"Professional, scientific and technical services [54]",215000
+2018,7,Public administration [91],107250
+2018,7,"Real estate, rental and leasing [53]",60750
+2018,7,Retail trade  [44-45],287000
+2018,7,Transportation and warehousing [48-49],136500
+2018,7,Utilities [22],13750
+2018,7,Wholesale trade  [41],78000
+2018,8,Accommodation and food services [72],200750
+2018,8,"Administrative and support, waste management and remediation services [56]",110750
+2018,8,"Agriculture, forestry, fishing and hunting [11]",44250
+2018,8,"Arts, entertainment and recreation [71]",76250
+2018,8,Construction [23],239500
+2018,8,Educational services [61],133750
+2018,8,Finance and insurance [52],91750
+2018,8,Health care and social assistance [62],327250
+2018,8,Information and cultural industries [51],56500
+2018,8,Manufacturing [31-33],170750
+2018,8,"Mining, quarrying, and oil and gas extraction [21]",27250
+2018,8,Other services (except public administration)[81],118250
+2018,8,"Professional, scientific and technical services [54]",218500
+2018,8,Public administration [91],110250
+2018,8,"Real estate, rental and leasing [53]",59750
+2018,8,Retail trade  [44-45],290250
+2018,8,Transportation and warehousing [48-49],141500
+2018,8,Utilities [22],14250
+2018,8,Wholesale trade  [41],80250
+2018,9,Accommodation and food services [72],200000
+2018,9,"Administrative and support, waste management and remediation services [56]",99000
+2018,9,"Agriculture, forestry, fishing and hunting [11]",48000
+2018,9,"Arts, entertainment and recreation [71]",66500
+2018,9,Construction [23],238750
+2018,9,Educational services [61],169500
+2018,9,Finance and insurance [52],100500
+2018,9,Health care and social assistance [62],329000
+2018,9,Information and cultural industries [51],63250
+2018,9,Manufacturing [31-33],175500
+2018,9,"Mining, quarrying, and oil and gas extraction [21]",26750
+2018,9,Other services (except public administration)[81],121000
+2018,9,"Professional, scientific and technical services [54]",211000
+2018,9,Public administration [91],110750
+2018,9,"Real estate, rental and leasing [53]",50500
+2018,9,Retail trade  [44-45],284500
+2018,9,Transportation and warehousing [48-49],141250
+2018,9,Utilities [22],14000
+2018,9,Wholesale trade  [41],76750
+2018,10,Accommodation and food services [72],192500
+2018,10,"Administrative and support, waste management and remediation services [56]",99250
+2018,10,"Agriculture, forestry, fishing and hunting [11]",45000
+2018,10,"Arts, entertainment and recreation [71]",69500
+2018,10,Construction [23],232750
+2018,10,Educational services [61],178750
+2018,10,Finance and insurance [52],97250
+2018,10,Health care and social assistance [62],322250
+2018,10,Information and cultural industries [51],59000
+2018,10,Manufacturing [31-33],172500
+2018,10,"Mining, quarrying, and oil and gas extraction [21]",29250
+2018,10,Other services (except public administration)[81],119500
+2018,10,"Professional, scientific and technical services [54]",216000
+2018,10,Public administration [91],106250
+2018,10,"Real estate, rental and leasing [53]",55750
+2018,10,Retail trade  [44-45],288000
+2018,10,Transportation and warehousing [48-49],141750
+2018,10,Utilities [22],14250
+2018,10,Wholesale trade  [41],83250
+2018,11,Accommodation and food services [72],191500
+2018,11,"Administrative and support, waste management and remediation services [56]",103000
+2018,11,"Agriculture, forestry, fishing and hunting [11]",45500
+2018,11,"Arts, entertainment and recreation [71]",68250
+2018,11,Construction [23],242750
+2018,11,Educational services [61],179000
+2018,11,Finance and insurance [52],99250
+2018,11,Health care and social assistance [62],321750
+2018,11,Information and cultural industries [51],61500
+2018,11,Manufacturing [31-33],169500
+2018,11,"Mining, quarrying, and oil and gas extraction [21]",30000
+2018,11,Other services (except public administration)[81],119000
+2018,11,"Professional, scientific and technical services [54]",210000
+2018,11,Public administration [91],103500
+2018,11,"Real estate, rental and leasing [53]",54500
+2018,11,Retail trade  [44-45],294000
+2018,11,Transportation and warehousing [48-49],139750
+2018,11,Utilities [22],14750
+2018,11,Wholesale trade  [41],86500
+2018,12,Accommodation and food services [72],194500
+2018,12,"Administrative and support, waste management and remediation services [56]",105750
+2018,12,"Agriculture, forestry, fishing and hunting [11]",46250
+2018,12,"Arts, entertainment and recreation [71]",61500
+2018,12,Construction [23],241750
+2018,12,Educational services [61],178250
+2018,12,Finance and insurance [52],99250
+2018,12,Health care and social assistance [62],316500
+2018,12,Information and cultural industries [51],64750
+2018,12,Manufacturing [31-33],169250
+2018,12,"Mining, quarrying, and oil and gas extraction [21]",28000
+2018,12,Other services (except public administration)[81],120500
+2018,12,"Professional, scientific and technical services [54]",219000
+2018,12,Public administration [91],106500
+2018,12,"Real estate, rental and leasing [53]",51750
+2018,12,Retail trade  [44-45],282500
+2018,12,Transportation and warehousing [48-49],136250
+2018,12,Utilities [22],12250
+2018,12,Wholesale trade  [41],91500
+2019,1,Accommodation and food services [72],189250
+2019,1,"Administrative and support, waste management and remediation services [56]",109750
+2019,1,"Agriculture, forestry, fishing and hunting [11]",42250
+2019,1,"Arts, entertainment and recreation [71]",68250
+2019,1,Construction [23],231500
+2019,1,Educational services [61],180750
+2019,1,Finance and insurance [52],96750
+2019,1,Health care and social assistance [62],312000
+2019,1,Information and cultural industries [51],62000
+2019,1,Manufacturing [31-33],165250
+2019,1,"Mining, quarrying, and oil and gas extraction [21]",25500
+2019,1,Other services (except public administration)[81],116500
+2019,1,"Professional, scientific and technical services [54]",220750
+2019,1,Public administration [91],105250
+2019,1,"Real estate, rental and leasing [53]",53500
+2019,1,Retail trade  [44-45],286000
+2019,1,Transportation and warehousing [48-49],141000
+2019,1,Utilities [22],12750
+2019,1,Wholesale trade  [41],87500
+2019,2,Accommodation and food services [72],190000
+2019,2,"Administrative and support, waste management and remediation services [56]",112000
+2019,2,"Agriculture, forestry, fishing and hunting [11]",43750
+2019,2,"Arts, entertainment and recreation [71]",73750
+2019,2,Construction [23],226750
+2019,2,Educational services [61],183250
+2019,2,Finance and insurance [52],97750
+2019,2,Health care and social assistance [62],317500
+2019,2,Information and cultural industries [51],60750
+2019,2,Manufacturing [31-33],163750
+2019,2,"Mining, quarrying, and oil and gas extraction [21]",27500
+2019,2,Other services (except public administration)[81],119500
+2019,2,"Professional, scientific and technical services [54]",217500
+2019,2,Public administration [91],108000
+2019,2,"Real estate, rental and leasing [53]",51250
+2019,2,Retail trade  [44-45],288500
+2019,2,Transportation and warehousing [48-49],139250
+2019,2,Utilities [22],12500
+2019,2,Wholesale trade  [41],89750
+2019,3,Accommodation and food services [72],186750
+2019,3,"Administrative and support, waste management and remediation services [56]",111250
+2019,3,"Agriculture, forestry, fishing and hunting [11]",45250
+2019,3,"Arts, entertainment and recreation [71]",78750
+2019,3,Construction [23],230750
+2019,3,Educational services [61],181750
+2019,3,Finance and insurance [52],99500
+2019,3,Health care and social assistance [62],312000
+2019,3,Information and cultural industries [51],56750
+2019,3,Manufacturing [31-33],165000
+2019,3,"Mining, quarrying, and oil and gas extraction [21]",27500
+2019,3,Other services (except public administration)[81],122750
+2019,3,"Professional, scientific and technical services [54]",225750
+2019,3,Public administration [91],112000
+2019,3,"Real estate, rental and leasing [53]",57000
+2019,3,Retail trade  [44-45],288750
+2019,3,Transportation and warehousing [48-49],137000
+2019,3,Utilities [22],12500
+2019,3,Wholesale trade  [41],89500
+2019,4,Accommodation and food services [72],190250
+2019,4,"Administrative and support, waste management and remediation services [56]",118000
+2019,4,"Agriculture, forestry, fishing and hunting [11]",45000
+2019,4,"Arts, entertainment and recreation [71]",72250
+2019,4,Construction [23],242000
+2019,4,Educational services [61],181250
+2019,4,Finance and insurance [52],94250
+2019,4,Health care and social assistance [62],309250
+2019,4,Information and cultural industries [51],61250
+2019,4,Manufacturing [31-33],166250
+2019,4,"Mining, quarrying, and oil and gas extraction [21]",28500
+2019,4,Other services (except public administration)[81],122500
+2019,4,"Professional, scientific and technical services [54]",222750
+2019,4,Public administration [91],114500
+2019,4,"Real estate, rental and leasing [53]",61750
+2019,4,Retail trade  [44-45],289000
+2019,4,Transportation and warehousing [48-49],137750
+2019,4,Utilities [22],12000
+2019,4,Wholesale trade  [41],81250
+2019,5,Accommodation and food services [72],186750
+2019,5,"Administrative and support, waste management and remediation services [56]",123500
+2019,5,"Agriculture, forestry, fishing and hunting [11]",47750
+2019,5,"Arts, entertainment and recreation [71]",78250
+2019,5,Construction [23],242750
+2019,5,Educational services [61],181000
+2019,5,Finance and insurance [52],99000
+2019,5,Health care and social assistance [62],310500
+2019,5,Information and cultural industries [51],60500
+2019,5,Manufacturing [31-33],176250
+2019,5,"Mining, quarrying, and oil and gas extraction [21]",29250
+2019,5,Other services (except public administration)[81],121250
+2019,5,"Professional, scientific and technical services [54]",219750
+2019,5,Public administration [91],116250
+2019,5,"Real estate, rental and leasing [53]",55500
+2019,5,Retail trade  [44-45],302250
+2019,5,Transportation and warehousing [48-49],143500
+2019,5,Utilities [22],13500
+2019,5,Wholesale trade  [41],83250
+2019,6,Accommodation and food services [72],187500
+2019,6,"Administrative and support, waste management and remediation services [56]",121250
+2019,6,"Agriculture, forestry, fishing and hunting [11]",43250
+2019,6,"Arts, entertainment and recreation [71]",84750
+2019,6,Construction [23],240250
+2019,6,Educational services [61],181250
+2019,6,Finance and insurance [52],102000
+2019,6,Health care and social assistance [62],319000
+2019,6,Information and cultural industries [51],57250
+2019,6,Manufacturing [31-33],170750
+2019,6,"Mining, quarrying, and oil and gas extraction [21]",28500
+2019,6,Other services (except public administration)[81],117250
+2019,6,"Professional, scientific and technical services [54]",225750
+2019,6,Public administration [91],118250
+2019,6,"Real estate, rental and leasing [53]",60250
+2019,6,Retail trade  [44-45],309500
+2019,6,Transportation and warehousing [48-49],145750
+2019,6,Utilities [22],13000
+2019,6,Wholesale trade  [41],87000
+2019,7,Accommodation and food services [72],193750
+2019,7,"Administrative and support, waste management and remediation services [56]",122750
+2019,7,"Agriculture, forestry, fishing and hunting [11]",43000
+2019,7,"Arts, entertainment and recreation [71]",88000
+2019,7,Construction [23],245250
+2019,7,Educational services [61],155000
+2019,7,Finance and insurance [52],100500
+2019,7,Health care and social assistance [62],319500
+2019,7,Information and cultural industries [51],54750
+2019,7,Manufacturing [31-33],170750
+2019,7,"Mining, quarrying, and oil and gas extraction [21]",28000
+2019,7,Other services (except public administration)[81],123750
+2019,7,"Professional, scientific and technical services [54]",221750
+2019,7,Public administration [91],118250
+2019,7,"Real estate, rental and leasing [53]",61750
+2019,7,Retail trade  [44-45],303250
+2019,7,Transportation and warehousing [48-49],139250
+2019,7,Utilities [22],11500
+2019,7,Wholesale trade  [41],94250
+2019,8,Accommodation and food services [72],194000
+2019,8,"Administrative and support, waste management and remediation services [56]",117750
+2019,8,"Agriculture, forestry, fishing and hunting [11]",46250
+2019,8,"Arts, entertainment and recreation [71]",83500
+2019,8,Construction [23],238250
+2019,8,Educational services [61],154500
+2019,8,Finance and insurance [52],93500
+2019,8,Health care and social assistance [62],309500
+2019,8,Information and cultural industries [51],60000
+2019,8,Manufacturing [31-33],164750
+2019,8,"Mining, quarrying, and oil and gas extraction [21]",28000
+2019,8,Other services (except public administration)[81],122750
+2019,8,"Professional, scientific and technical services [54]",233750
+2019,8,Public administration [91],120750
+2019,8,"Real estate, rental and leasing [53]",64500
+2019,8,Retail trade  [44-45],310000
+2019,8,Transportation and warehousing [48-49],136500
+2019,8,Utilities [22],12500
+2019,8,Wholesale trade  [41],90000
+2019,9,Accommodation and food services [72],190250
+2019,9,"Administrative and support, waste management and remediation services [56]",109750
+2019,9,"Agriculture, forestry, fishing and hunting [11]",44500
+2019,9,"Arts, entertainment and recreation [71]",59500
+2019,9,Construction [23],234000
+2019,9,Educational services [61],182250
+2019,9,Finance and insurance [52],91500
+2019,9,Health care and social assistance [62],311250
+2019,9,Information and cultural industries [51],63750
+2019,9,Manufacturing [31-33],165000
+2019,9,"Mining, quarrying, and oil and gas extraction [21]",26500
+2019,9,Other services (except public administration)[81],115750
+2019,9,"Professional, scientific and technical services [54]",225750
+2019,9,Public administration [91],119250
+2019,9,"Real estate, rental and leasing [53]",70000
+2019,9,Retail trade  [44-45],308500
+2019,9,Transportation and warehousing [48-49],144750
+2019,9,Utilities [22],11500
+2019,9,Wholesale trade  [41],85000
+2019,10,Accommodation and food services [72],0
+2019,10,"Administrative and support, waste management and remediation services [56]",0
+2019,10,"Agriculture, forestry, fishing and hunting [11]",0
+2019,10,"Arts, entertainment and recreation [71]",0
+2019,10,Construction [23],0
+2019,10,Educational services [61],0
+2019,10,Finance and insurance [52],0
+2019,10,Health care and social assistance [62],0
+2019,10,Information and cultural industries [51],0
+2019,10,Manufacturing [31-33],0
+2019,10,"Mining, quarrying, and oil and gas extraction [21]",0
+2019,10,Other services (except public administration)[81],0
+2019,10,"Professional, scientific and technical services [54]",0
+2019,10,Public administration [91],0
+2019,10,"Real estate, rental and leasing [53]",0
+2019,10,Retail trade  [44-45],0
+2019,10,Transportation and warehousing [48-49],0
+2019,10,Utilities [22],0
+2019,10,Wholesale trade  [41],0
+2019,11,Accommodation and food services [72],0
+2019,11,"Administrative and support, waste management and remediation services [56]",0
+2019,11,"Agriculture, forestry, fishing and hunting [11]",0
+2019,11,"Arts, entertainment and recreation [71]",0
+2019,11,Construction [23],0
+2019,11,Educational services [61],0
+2019,11,Finance and insurance [52],0
+2019,11,Health care and social assistance [62],0
+2019,11,Information and cultural industries [51],0
+2019,11,Manufacturing [31-33],0
+2019,11,"Mining, quarrying, and oil and gas extraction [21]",0
+2019,11,Other services (except public administration)[81],0
+2019,11,"Professional, scientific and technical services [54]",0
+2019,11,Public administration [91],0
+2019,11,"Real estate, rental and leasing [53]",0
+2019,11,Retail trade  [44-45],0
+2019,11,Transportation and warehousing [48-49],0
+2019,11,Utilities [22],0
+2019,11,Wholesale trade  [41],0
+2019,12,Accommodation and food services [72],0
+2019,12,"Administrative and support, waste management and remediation services [56]",0
+2019,12,"Agriculture, forestry, fishing and hunting [11]",0
+2019,12,"Arts, entertainment and recreation [71]",0
+2019,12,Construction [23],0
+2019,12,Educational services [61],0
+2019,12,Finance and insurance [52],0
+2019,12,Health care and social assistance [62],0
+2019,12,Information and cultural industries [51],0
+2019,12,Manufacturing [31-33],0
+2019,12,"Mining, quarrying, and oil and gas extraction [21]",0
+2019,12,Other services (except public administration)[81],0
+2019,12,"Professional, scientific and technical services [54]",0
+2019,12,Public administration [91],0
+2019,12,"Real estate, rental and leasing [53]",0
+2019,12,Retail trade  [44-45],0
+2019,12,Transportation and warehousing [48-49],0
+2019,12,Utilities [22],0
+2019,12,Wholesale trade  [41],0
